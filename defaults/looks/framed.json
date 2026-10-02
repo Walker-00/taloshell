@@ -1,0 +1,60 @@
+{
+  "name": "Framed",
+  "description": "A colored bezel wraps the whole screen, like caelestia & octashell.",
+  "icon": "fullscreen",
+  "order": 7,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 1.2,
+        "pillShapes": true,
+        "fontScale": 1.0,
+        "animationSpeed": 1.0,
+        "expressiveMotion": true,
+        "density": 1.0,
+        "borderWidth": 1,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": true,
+        "shadowStrength": 1.0,
+        "look": "framed"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 0,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": true,
+      "vertical": false,
+      "floatStyleShadow": true,
+      "frameThickness": 6,
+      "followFrameColor": true,
+      "frameColor": "layer0"
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 20,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 3,
+        "gapsOut": 6
+      }
+    }
+  }
+}

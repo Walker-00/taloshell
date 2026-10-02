@@ -1,0 +1,58 @@
+{
+  "name": "Brutalist",
+  "description": "Hard edges, thick outlines, monospace everything, zero fluff.",
+  "icon": "grid_on",
+  "order": 4,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 0,
+        "pillShapes": false,
+        "fontScale": 1.0,
+        "animationSpeed": 0.45,
+        "expressiveMotion": false,
+        "density": 1.0,
+        "borderWidth": 2,
+        "borderColor": "onSurface",
+        "borderOpacity": 1.0,
+        "shadows": false,
+        "shadowStrength": 1.0,
+        "look": "brutalist"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "JetBrains Mono NF",
+        "numbers": "JetBrains Mono NF",
+        "title": "JetBrains Mono NF",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 2,
+      "borderless": "segmented",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 0,
+        "blur": {
+          "enabled": false
+        },
+        "shadow": {
+          "enabled": false
+        }
+      },
+      "general": {
+        "gapsIn": 4,
+        "gapsOut": 8
+      }
+    }
+  },
+  "suggestedTheme": "mono-light"
+}

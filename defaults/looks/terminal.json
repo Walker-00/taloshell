@@ -1,0 +1,58 @@
+{
+  "name": "Retro Terminal",
+  "description": "Monospace type, slight rounding, accent outlines. Hacker chic.",
+  "icon": "terminal",
+  "order": 5,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 0.3,
+        "pillShapes": false,
+        "fontScale": 1.0,
+        "animationSpeed": 0.6,
+        "expressiveMotion": false,
+        "density": 1.0,
+        "borderWidth": 1,
+        "borderColor": "primary",
+        "borderOpacity": 0.6,
+        "shadows": false,
+        "shadowStrength": 1.0,
+        "look": "terminal"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "JetBrains Mono NF",
+        "numbers": "JetBrains Mono NF",
+        "title": "JetBrains Mono NF",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 1,
+      "borderless": "segmented",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 4,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 3,
+        "gapsOut": 6
+      }
+    }
+  },
+  "suggestedTheme": "gruvbox-dark"
+}

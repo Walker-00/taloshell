@@ -1,0 +1,60 @@
+{
+  "name": "Cyberdream",
+  "family": "Cyberdream",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "scottmckendry",
+  "palette": {
+    "bg": "#16181a",
+    "bgAlt": "#101113",
+    "bgDeep": "#0a0b0c",
+    "surface0": "#1e2124",
+    "surface1": "#2a2e33",
+    "surface2": "#3c4048",
+    "overlay": "#7b8496",
+    "fg": "#ffffff",
+    "fgDim": "#b8bec9",
+    "red": "#ff6e5e",
+    "orange": "#ffbd5e",
+    "yellow": "#f1ff5e",
+    "green": "#5eff6c",
+    "cyan": "#5ef1ff",
+    "blue": "#5ea1ff",
+    "magenta": "#bd5eff",
+    "pink": "#ff5ea0"
+  },
+  "accents": {
+    "blue": "#5ea1ff",
+    "cyan": "#5ef1ff",
+    "green": "#5eff6c",
+    "yellow": "#f1ff5e",
+    "orange": "#ffbd5e",
+    "pink": "#ff5ea0",
+    "purple": "#bd5eff",
+    "magenta": "#ff5ef1",
+    "red": "#ff6e5e"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "magenta",
+    "tertiary": "cyan"
+  },
+  "terminal": [
+    "#16181a",
+    "#ff6e5e",
+    "#5eff6c",
+    "#f1ff5e",
+    "#5ea1ff",
+    "#bd5eff",
+    "#5ef1ff",
+    "#ffffff",
+    "#3c4048",
+    "#ff6e5e",
+    "#5eff6c",
+    "#f1ff5e",
+    "#5ea1ff",
+    "#bd5eff",
+    "#5ef1ff",
+    "#ffffff"
+  ]
+}

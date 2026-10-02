@@ -1,0 +1,62 @@
+{
+  "name": "Tokyo Night",
+  "family": "Tokyo Night",
+  "variant": "Night",
+  "mode": "dark",
+  "author": "enkia / folke",
+  "url": "https://github.com/folke/tokyonight.nvim",
+  "counterpart": "tokyonight-day",
+  "palette": {
+    "bg": "#1a1b26",
+    "bgAlt": "#16161e",
+    "bgDeep": "#101014",
+    "surface0": "#292e42",
+    "surface1": "#3b4261",
+    "surface2": "#414868",
+    "overlay": "#565f89",
+    "fg": "#c0caf5",
+    "fgDim": "#a9b1d6",
+    "red": "#f7768e",
+    "orange": "#ff9e64",
+    "yellow": "#e0af68",
+    "green": "#9ece6a",
+    "cyan": "#7dcfff",
+    "blue": "#7aa2f7",
+    "magenta": "#bb9af7",
+    "pink": "#ff007c"
+  },
+  "accents": {
+    "blue": "#7aa2f7",
+    "cyan": "#7dcfff",
+    "teal": "#73daca",
+    "magenta": "#bb9af7",
+    "purple": "#9d7cd8",
+    "orange": "#ff9e64",
+    "yellow": "#e0af68",
+    "green": "#9ece6a",
+    "red": "#f7768e"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "magenta",
+    "tertiary": "teal"
+  },
+  "terminal": [
+    "#15161e",
+    "#f7768e",
+    "#9ece6a",
+    "#e0af68",
+    "#7aa2f7",
+    "#bb9af7",
+    "#7dcfff",
+    "#a9b1d6",
+    "#414868",
+    "#f7768e",
+    "#9ece6a",
+    "#e0af68",
+    "#7aa2f7",
+    "#bb9af7",
+    "#7dcfff",
+    "#c0caf5"
+  ]
+}

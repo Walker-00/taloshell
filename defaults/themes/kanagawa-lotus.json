@@ -1,0 +1,61 @@
+{
+  "name": "Kanagawa Lotus",
+  "family": "Kanagawa",
+  "variant": "Lotus",
+  "mode": "light",
+  "author": "rebelot",
+  "counterpart": "kanagawa-wave",
+  "palette": {
+    "bg": "#f2ecbc",
+    "bgAlt": "#e5ddb0",
+    "bgDeep": "#dcd5ac",
+    "surface0": "#e7dba0",
+    "surface1": "#e4d794",
+    "surface2": "#d5cea3",
+    "overlay": "#8a8980",
+    "fg": "#545464",
+    "fgDim": "#43436c",
+    "red": "#c84053",
+    "orange": "#cc6d00",
+    "yellow": "#77713f",
+    "green": "#6f894e",
+    "cyan": "#597b75",
+    "blue": "#4d699b",
+    "magenta": "#624c83",
+    "pink": "#b35b79"
+  },
+  "accents": {
+    "blue": "#4d699b",
+    "teal": "#4e8ca2",
+    "violet": "#624c83",
+    "pink": "#b35b79",
+    "red": "#c84053",
+    "orange": "#cc6d00",
+    "yellow": "#77713f",
+    "green": "#6f894e",
+    "aqua": "#597b75"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "violet",
+    "tertiary": "pink"
+  },
+  "terminal": [
+    "#1f1f28",
+    "#c84053",
+    "#6f894e",
+    "#77713f",
+    "#4d699b",
+    "#b35b79",
+    "#597b75",
+    "#545464",
+    "#8a8980",
+    "#d7474b",
+    "#6e915f",
+    "#836f4a",
+    "#6693bf",
+    "#624c83",
+    "#5e857a",
+    "#43436c"
+  ]
+}

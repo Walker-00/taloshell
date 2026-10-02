@@ -1,0 +1,60 @@
+{
+  "name": "Frosted Glass",
+  "description": "Floating translucent bar with blur and soft outlines.",
+  "icon": "blur_on",
+  "order": 2,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 1.2,
+        "pillShapes": true,
+        "fontScale": 1.0,
+        "animationSpeed": 1.0,
+        "expressiveMotion": true,
+        "density": 1.0,
+        "borderWidth": 1,
+        "borderColor": "outline",
+        "borderOpacity": 0.35,
+        "shadows": true,
+        "shadowStrength": 0.6,
+        "look": "glass"
+      },
+      "transparency": {
+        "enable": true,
+        "automatic": false,
+        "backgroundTransparency": 0.35,
+        "contentTransparency": 0.55
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 1,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 18,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 4,
+        "gapsOut": 10
+      }
+    }
+  }
+}

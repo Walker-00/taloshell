@@ -1,0 +1,57 @@
+{
+  "name": "Everblush",
+  "family": "Everblush",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "Everblush",
+  "palette": {
+    "bg": "#141b1e",
+    "bgAlt": "#111719",
+    "bgDeep": "#0d1214",
+    "surface0": "#1e2528",
+    "surface1": "#232a2d",
+    "surface2": "#2d3437",
+    "overlay": "#5c6466",
+    "fg": "#dadada",
+    "fgDim": "#b3b9b8",
+    "red": "#e57474",
+    "orange": "#fcb163",
+    "yellow": "#e5c76b",
+    "green": "#8ccf7e",
+    "cyan": "#6cbfbf",
+    "blue": "#67b0e8",
+    "magenta": "#c47fd5",
+    "pink": "#ef7e7e"
+  },
+  "accents": {
+    "blue": "#67b0e8",
+    "green": "#8ccf7e",
+    "magenta": "#c47fd5",
+    "cyan": "#6cbfbf",
+    "yellow": "#e5c76b",
+    "red": "#e57474"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "green",
+    "tertiary": "magenta"
+  },
+  "terminal": [
+    "#232a2d",
+    "#e57474",
+    "#8ccf7e",
+    "#e5c76b",
+    "#67b0e8",
+    "#c47fd5",
+    "#6cbfbf",
+    "#b3b9b8",
+    "#2d3437",
+    "#ef7e7e",
+    "#96d988",
+    "#f4d67a",
+    "#71baf2",
+    "#ce89df",
+    "#67cbe7",
+    "#bdc3c2"
+  ]
+}

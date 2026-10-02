@@ -1,0 +1,56 @@
+{
+  "name": "Paper",
+  "family": "Monochrome",
+  "variant": "Paper",
+  "mode": "light",
+  "author": "taloshell",
+  "counterpart": "mono-dark",
+  "palette": {
+    "bg": "#f7f7f5",
+    "bgAlt": "#efefec",
+    "bgDeep": "#e6e6e2",
+    "surface0": "#ebebe8",
+    "surface1": "#e0e0dc",
+    "surface2": "#cfcfca",
+    "overlay": "#8f8f8a",
+    "fg": "#161616",
+    "fgDim": "#55554f",
+    "red": "#b33a3a",
+    "orange": "#a8601c",
+    "yellow": "#8a7418",
+    "green": "#3f7a3f",
+    "cyan": "#2f7373",
+    "blue": "#35577f",
+    "magenta": "#6b4a85",
+    "pink": "#8a4a63"
+  },
+  "accents": {
+    "ink": "#1a1a1a",
+    "graphite": "#4a4a4a",
+    "red": "#b33a3a",
+    "blue": "#35577f"
+  },
+  "roles": {
+    "primary": "ink",
+    "secondary": "graphite",
+    "tertiary": "red"
+  },
+  "terminal": [
+    "#161616",
+    "#b33a3a",
+    "#3f7a3f",
+    "#8a7418",
+    "#35577f",
+    "#6b4a85",
+    "#2f7373",
+    "#8f8f8a",
+    "#55554f",
+    "#c94f4f",
+    "#4f8f4f",
+    "#a08a28",
+    "#4a6c94",
+    "#80609a",
+    "#408888",
+    "#cfcfca"
+  ]
+}

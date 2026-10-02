@@ -1,0 +1,59 @@
+{
+  "name": "Carbonfox",
+  "family": "Nightfox",
+  "variant": "Carbonfox",
+  "mode": "dark",
+  "author": "EdenEast",
+  "counterpart": "dayfox",
+  "palette": {
+    "bg": "#161616",
+    "bgAlt": "#0c0c0c",
+    "bgDeep": "#080808",
+    "surface0": "#252525",
+    "surface1": "#353535",
+    "surface2": "#484848",
+    "overlay": "#7b7c7e",
+    "fg": "#f2f4f8",
+    "fgDim": "#b6b8bb",
+    "red": "#ee5396",
+    "orange": "#3ddbd9",
+    "yellow": "#08bdba",
+    "green": "#25be6a",
+    "cyan": "#33b1ff",
+    "blue": "#78a9ff",
+    "magenta": "#be95ff",
+    "pink": "#ff7eb6"
+  },
+  "accents": {
+    "blue": "#78a9ff",
+    "magenta": "#be95ff",
+    "cyan": "#33b1ff",
+    "green": "#25be6a",
+    "teal": "#08bdba",
+    "pink": "#ff7eb6",
+    "red": "#ee5396"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "magenta",
+    "tertiary": "pink"
+  },
+  "terminal": [
+    "#282828",
+    "#ee5396",
+    "#25be6a",
+    "#08bdba",
+    "#78a9ff",
+    "#be95ff",
+    "#33b1ff",
+    "#dfdfe0",
+    "#484848",
+    "#f16da6",
+    "#46c880",
+    "#2dc7c4",
+    "#8cb6ff",
+    "#c8a5ff",
+    "#52bdff",
+    "#e4e4e5"
+  ]
+}

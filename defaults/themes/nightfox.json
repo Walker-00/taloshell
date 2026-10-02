@@ -1,0 +1,61 @@
+{
+  "name": "Nightfox",
+  "family": "Nightfox",
+  "variant": "Nightfox",
+  "mode": "dark",
+  "author": "EdenEast",
+  "url": "https://github.com/EdenEast/nightfox.nvim",
+  "counterpart": "dayfox",
+  "palette": {
+    "bg": "#192330",
+    "bgAlt": "#131a24",
+    "bgDeep": "#0e141c",
+    "surface0": "#212e3f",
+    "surface1": "#29394f",
+    "surface2": "#39506d",
+    "overlay": "#71839b",
+    "fg": "#cdcecf",
+    "fgDim": "#aeafb0",
+    "red": "#c94f6d",
+    "orange": "#f4a261",
+    "yellow": "#dbc074",
+    "green": "#81b29a",
+    "cyan": "#63cdcf",
+    "blue": "#719cd6",
+    "magenta": "#9d79d6",
+    "pink": "#d67ad2"
+  },
+  "accents": {
+    "blue": "#719cd6",
+    "magenta": "#9d79d6",
+    "cyan": "#63cdcf",
+    "green": "#81b29a",
+    "yellow": "#dbc074",
+    "orange": "#f4a261",
+    "pink": "#d67ad2",
+    "red": "#c94f6d"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "magenta",
+    "tertiary": "cyan"
+  },
+  "terminal": [
+    "#393b44",
+    "#c94f6d",
+    "#81b29a",
+    "#dbc074",
+    "#719cd6",
+    "#9d79d6",
+    "#63cdcf",
+    "#dfdfe0",
+    "#575860",
+    "#d16983",
+    "#8ebaa4",
+    "#e0c989",
+    "#86abdc",
+    "#baa1e2",
+    "#7ad5d6",
+    "#e4e4e5"
+  ]
+}

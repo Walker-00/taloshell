@@ -1,0 +1,5 @@
+# Nothing of the user's config/state lives in this repo (it's kept in
+# ~/.config/taloshell and ~/.local/state/taloshell instead), but just in case:
+*.bak
+*.bak-*
+.direnv/

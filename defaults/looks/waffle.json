@@ -1,0 +1,57 @@
+{
+  "name": "Windows 11",
+  "description": "The Waffle panel family: taskbar, start menu, action center.",
+  "icon": "window",
+  "order": 13,
+  "config": {
+    "panelFamily": "waffle",
+    "appearance": {
+      "style": {
+        "roundingScale": 0.45,
+        "pillShapes": false,
+        "fontScale": 1.0,
+        "animationSpeed": 0.8,
+        "expressiveMotion": false,
+        "density": 1.0,
+        "borderWidth": 1,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": true,
+        "shadowStrength": 1.0,
+        "look": "waffle"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 0,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 8,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 2,
+        "gapsOut": 4
+      }
+    }
+  }
+}

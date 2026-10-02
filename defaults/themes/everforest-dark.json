@@ -1,0 +1,60 @@
+{
+  "name": "Everforest Dark",
+  "family": "Everforest",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "sainnhe",
+  "url": "https://github.com/sainnhe/everforest",
+  "counterpart": "everforest-light",
+  "palette": {
+    "bg": "#2d353b",
+    "bgAlt": "#272e33",
+    "bgDeep": "#1e2326",
+    "surface0": "#343f44",
+    "surface1": "#3d484d",
+    "surface2": "#475258",
+    "overlay": "#7a8478",
+    "fg": "#d3c6aa",
+    "fgDim": "#9da9a0",
+    "red": "#e67e80",
+    "orange": "#e69875",
+    "yellow": "#dbbc7f",
+    "green": "#a7c080",
+    "cyan": "#83c092",
+    "blue": "#7fbbb3",
+    "magenta": "#d699b6",
+    "pink": "#d699b6"
+  },
+  "accents": {
+    "red": "#e67e80",
+    "orange": "#e69875",
+    "yellow": "#dbbc7f",
+    "green": "#a7c080",
+    "aqua": "#83c092",
+    "blue": "#7fbbb3",
+    "purple": "#d699b6"
+  },
+  "roles": {
+    "primary": "green",
+    "secondary": "aqua",
+    "tertiary": "orange"
+  },
+  "terminal": [
+    "#475258",
+    "#e67e80",
+    "#a7c080",
+    "#dbbc7f",
+    "#7fbbb3",
+    "#d699b6",
+    "#83c092",
+    "#d3c6aa",
+    "#56635f",
+    "#e67e80",
+    "#a7c080",
+    "#dbbc7f",
+    "#7fbbb3",
+    "#d699b6",
+    "#83c092",
+    "#d3c6aa"
+  ]
+}

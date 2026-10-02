@@ -1,0 +1,58 @@
+{
+  "name": "Night Owl",
+  "family": "Night Owl",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "Sarah Drasner",
+  "palette": {
+    "bg": "#011627",
+    "bgAlt": "#01111d",
+    "bgDeep": "#000c15",
+    "surface0": "#0b2942",
+    "surface1": "#1d3b53",
+    "surface2": "#2c4a63",
+    "overlay": "#637777",
+    "fg": "#d6deeb",
+    "fgDim": "#a7b8cc",
+    "red": "#ef5350",
+    "orange": "#f78c6c",
+    "yellow": "#ecc48d",
+    "green": "#addb67",
+    "cyan": "#7fdbca",
+    "blue": "#82aaff",
+    "magenta": "#c792ea",
+    "pink": "#ff5874"
+  },
+  "accents": {
+    "blue": "#82aaff",
+    "purple": "#c792ea",
+    "cyan": "#7fdbca",
+    "green": "#addb67",
+    "yellow": "#ecc48d",
+    "orange": "#f78c6c",
+    "red": "#ef5350"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "purple",
+    "tertiary": "cyan"
+  },
+  "terminal": [
+    "#011627",
+    "#ef5350",
+    "#22da6e",
+    "#addb67",
+    "#82aaff",
+    "#c792ea",
+    "#21c7a8",
+    "#ffffff",
+    "#575656",
+    "#ef5350",
+    "#22da6e",
+    "#ffeb95",
+    "#82aaff",
+    "#c792ea",
+    "#7fdbca",
+    "#ffffff"
+  ]
+}

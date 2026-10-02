@@ -1,0 +1,59 @@
+{
+  "name": "Rosé Pine Moon",
+  "family": "Rosé Pine",
+  "variant": "Moon",
+  "mode": "dark",
+  "author": "Rosé Pine",
+  "url": "https://rosepinetheme.com",
+  "counterpart": "rosepine-dawn",
+  "palette": {
+    "bg": "#232136",
+    "bgAlt": "#2a273f",
+    "bgDeep": "#1c1a2d",
+    "surface0": "#393552",
+    "surface1": "#44415a",
+    "surface2": "#56526e",
+    "overlay": "#6e6a86",
+    "fg": "#e0def4",
+    "fgDim": "#908caa",
+    "red": "#eb6f92",
+    "orange": "#f6c177",
+    "yellow": "#f6c177",
+    "green": "#3e8fb0",
+    "cyan": "#9ccfd8",
+    "blue": "#3e8fb0",
+    "magenta": "#c4a7e7",
+    "pink": "#ea9a97"
+  },
+  "accents": {
+    "rose": "#ea9a97",
+    "love": "#eb6f92",
+    "gold": "#f6c177",
+    "pine": "#3e8fb0",
+    "foam": "#9ccfd8",
+    "iris": "#c4a7e7"
+  },
+  "roles": {
+    "primary": "rose",
+    "secondary": "iris",
+    "tertiary": "foam"
+  },
+  "terminal": [
+    "#393552",
+    "#eb6f92",
+    "#3e8fb0",
+    "#f6c177",
+    "#9ccfd8",
+    "#c4a7e7",
+    "#ea9a97",
+    "#e0def4",
+    "#6e6a86",
+    "#eb6f92",
+    "#3e8fb0",
+    "#f6c177",
+    "#9ccfd8",
+    "#c4a7e7",
+    "#ea9a97",
+    "#e0def4"
+  ]
+}

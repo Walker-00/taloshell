@@ -1,0 +1,61 @@
+{
+  "name": "Nord Light",
+  "family": "Nord",
+  "variant": "Snow Storm",
+  "mode": "light",
+  "author": "Arctic Ice Studio",
+  "counterpart": "nord",
+  "palette": {
+    "bg": "#eceff4",
+    "bgAlt": "#e5e9f0",
+    "bgDeep": "#d8dee9",
+    "surface0": "#dfe3ea",
+    "surface1": "#d3d9e3",
+    "surface2": "#c2c9d6",
+    "overlay": "#8e98ab",
+    "fg": "#2e3440",
+    "fgDim": "#4c566a",
+    "red": "#bf616a",
+    "orange": "#d08770",
+    "yellow": "#c5a05a",
+    "green": "#7d9a64",
+    "cyan": "#5e9ea0",
+    "blue": "#5e81ac",
+    "magenta": "#b48ead",
+    "pink": "#b48ead"
+  },
+  "accents": {
+    "frost1": "#8fbcbb",
+    "frost2": "#88c0d0",
+    "frost3": "#81a1c1",
+    "frost4": "#5e81ac",
+    "red": "#bf616a",
+    "orange": "#d08770",
+    "yellow": "#c5a05a",
+    "green": "#7d9a64",
+    "purple": "#b48ead"
+  },
+  "roles": {
+    "primary": "frost4",
+    "secondary": "frost3",
+    "tertiary": "purple"
+  },
+  "terminal": [
+    "#4c566a",
+    "#bf616a",
+    "#7d9a64",
+    "#c5a05a",
+    "#5e81ac",
+    "#b48ead",
+    "#5e9ea0",
+    "#3b4252",
+    "#4c566a",
+    "#bf616a",
+    "#7d9a64",
+    "#c5a05a",
+    "#81a1c1",
+    "#b48ead",
+    "#8fbcbb",
+    "#2e3440"
+  ]
+}

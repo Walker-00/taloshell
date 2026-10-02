@@ -1,0 +1,61 @@
+{
+  "name": "Tokyo Night Day",
+  "family": "Tokyo Night",
+  "variant": "Day",
+  "mode": "light",
+  "author": "enkia / folke",
+  "counterpart": "tokyonight-night",
+  "palette": {
+    "bg": "#e1e2e7",
+    "bgAlt": "#d0d5e3",
+    "bgDeep": "#c4c8da",
+    "surface0": "#d5d6db",
+    "surface1": "#c4c8da",
+    "surface2": "#a8aecb",
+    "overlay": "#848cb5",
+    "fg": "#3760bf",
+    "fgDim": "#6172b0",
+    "red": "#f52a65",
+    "orange": "#b15c00",
+    "yellow": "#8c6c3e",
+    "green": "#587539",
+    "cyan": "#007197",
+    "blue": "#2e7de9",
+    "magenta": "#9854f1",
+    "pink": "#d20065"
+  },
+  "accents": {
+    "blue": "#2e7de9",
+    "cyan": "#007197",
+    "teal": "#118c74",
+    "magenta": "#9854f1",
+    "purple": "#7847bd",
+    "orange": "#b15c00",
+    "yellow": "#8c6c3e",
+    "green": "#587539",
+    "red": "#f52a65"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "magenta",
+    "tertiary": "teal"
+  },
+  "terminal": [
+    "#b4b5b9",
+    "#f52a65",
+    "#587539",
+    "#8c6c3e",
+    "#2e7de9",
+    "#9854f1",
+    "#007197",
+    "#6172b0",
+    "#a1a6c5",
+    "#f52a65",
+    "#587539",
+    "#8c6c3e",
+    "#2e7de9",
+    "#9854f1",
+    "#007197",
+    "#3760bf"
+  ]
+}

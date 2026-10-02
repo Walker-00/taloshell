@@ -1,0 +1,59 @@
+{
+  "name": "GitHub Light",
+  "family": "GitHub",
+  "variant": "Light",
+  "mode": "light",
+  "author": "GitHub",
+  "counterpart": "github-dark",
+  "palette": {
+    "bg": "#ffffff",
+    "bgAlt": "#f6f8fa",
+    "bgDeep": "#eaeef2",
+    "surface0": "#f6f8fa",
+    "surface1": "#eaeef2",
+    "surface2": "#d0d7de",
+    "overlay": "#8c959f",
+    "fg": "#1f2328",
+    "fgDim": "#656d76",
+    "red": "#cf222e",
+    "orange": "#bc4c00",
+    "yellow": "#9a6700",
+    "green": "#1a7f37",
+    "cyan": "#1b7c83",
+    "blue": "#0969da",
+    "magenta": "#8250df",
+    "pink": "#bf3989"
+  },
+  "accents": {
+    "blue": "#0969da",
+    "purple": "#8250df",
+    "green": "#1a7f37",
+    "orange": "#bc4c00",
+    "pink": "#bf3989",
+    "red": "#cf222e",
+    "yellow": "#9a6700"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "purple",
+    "tertiary": "green"
+  },
+  "terminal": [
+    "#24292f",
+    "#cf222e",
+    "#116329",
+    "#4d2d00",
+    "#0969da",
+    "#8250df",
+    "#1b7c83",
+    "#6e7781",
+    "#57606a",
+    "#a40e26",
+    "#1a7f37",
+    "#633c01",
+    "#218bff",
+    "#a475f9",
+    "#3192aa",
+    "#8c959f"
+  ]
+}

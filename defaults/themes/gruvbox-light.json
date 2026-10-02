@@ -1,0 +1,59 @@
+{
+  "name": "Gruvbox Light",
+  "family": "Gruvbox",
+  "variant": "Light",
+  "mode": "light",
+  "author": "morhetz",
+  "counterpart": "gruvbox-dark",
+  "palette": {
+    "bg": "#fbf1c7",
+    "bgAlt": "#f2e5bc",
+    "bgDeep": "#ebdbb2",
+    "surface0": "#ebdbb2",
+    "surface1": "#d5c4a1",
+    "surface2": "#bdae93",
+    "overlay": "#a89984",
+    "fg": "#3c3836",
+    "fgDim": "#665c54",
+    "red": "#9d0006",
+    "orange": "#af3a03",
+    "yellow": "#b57614",
+    "green": "#79740e",
+    "cyan": "#427b58",
+    "blue": "#076678",
+    "magenta": "#8f3f71",
+    "pink": "#8f3f71"
+  },
+  "accents": {
+    "red": "#9d0006",
+    "green": "#79740e",
+    "yellow": "#b57614",
+    "blue": "#076678",
+    "purple": "#8f3f71",
+    "aqua": "#427b58",
+    "orange": "#af3a03"
+  },
+  "roles": {
+    "primary": "orange",
+    "secondary": "blue",
+    "tertiary": "aqua"
+  },
+  "terminal": [
+    "#fbf1c7",
+    "#cc241d",
+    "#98971a",
+    "#d79921",
+    "#458588",
+    "#b16286",
+    "#689d6a",
+    "#7c6f64",
+    "#928374",
+    "#9d0006",
+    "#79740e",
+    "#b57614",
+    "#076678",
+    "#8f3f71",
+    "#427b58",
+    "#3c3836"
+  ]
+}

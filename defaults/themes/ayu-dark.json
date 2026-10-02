@@ -1,0 +1,60 @@
+{
+  "name": "Ayu Dark",
+  "family": "Ayu",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "ayu-theme",
+  "url": "https://github.com/ayu-theme",
+  "counterpart": "ayu-light",
+  "palette": {
+    "bg": "#0b0e14",
+    "bgAlt": "#0d1017",
+    "bgDeep": "#07090d",
+    "surface0": "#131721",
+    "surface1": "#1c212b",
+    "surface2": "#2d3640",
+    "overlay": "#565b66",
+    "fg": "#bfbdb6",
+    "fgDim": "#8a8986",
+    "red": "#f07178",
+    "orange": "#ff8f40",
+    "yellow": "#e6b450",
+    "green": "#aad94c",
+    "cyan": "#95e6cb",
+    "blue": "#59c2ff",
+    "magenta": "#d2a6ff",
+    "pink": "#f29668"
+  },
+  "accents": {
+    "accent": "#e6b450",
+    "blue": "#59c2ff",
+    "green": "#aad94c",
+    "orange": "#ff8f40",
+    "purple": "#d2a6ff",
+    "cyan": "#95e6cb",
+    "red": "#f07178"
+  },
+  "roles": {
+    "primary": "accent",
+    "secondary": "blue",
+    "tertiary": "green"
+  },
+  "terminal": [
+    "#1e232b",
+    "#ea6c73",
+    "#7fd962",
+    "#f9af4f",
+    "#53bdfa",
+    "#cda1fa",
+    "#90e1c6",
+    "#c7c7c7",
+    "#686868",
+    "#f07178",
+    "#aad94c",
+    "#ffb454",
+    "#59c2ff",
+    "#d2a6ff",
+    "#95e6cb",
+    "#ffffff"
+  ]
+}

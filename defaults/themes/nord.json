@@ -1,0 +1,62 @@
+{
+  "name": "Nord",
+  "family": "Nord",
+  "variant": "Polar Night",
+  "mode": "dark",
+  "author": "Arctic Ice Studio",
+  "url": "https://nordtheme.com",
+  "counterpart": "nord-light",
+  "palette": {
+    "bg": "#2e3440",
+    "bgAlt": "#292e39",
+    "bgDeep": "#242933",
+    "surface0": "#3b4252",
+    "surface1": "#434c5e",
+    "surface2": "#4c566a",
+    "overlay": "#616e88",
+    "fg": "#eceff4",
+    "fgDim": "#d8dee9",
+    "red": "#bf616a",
+    "orange": "#d08770",
+    "yellow": "#ebcb8b",
+    "green": "#a3be8c",
+    "cyan": "#8fbcbb",
+    "blue": "#81a1c1",
+    "magenta": "#b48ead",
+    "pink": "#b48ead"
+  },
+  "accents": {
+    "frost1": "#8fbcbb",
+    "frost2": "#88c0d0",
+    "frost3": "#81a1c1",
+    "frost4": "#5e81ac",
+    "red": "#bf616a",
+    "orange": "#d08770",
+    "yellow": "#ebcb8b",
+    "green": "#a3be8c",
+    "purple": "#b48ead"
+  },
+  "roles": {
+    "primary": "frost2",
+    "secondary": "frost3",
+    "tertiary": "purple"
+  },
+  "terminal": [
+    "#3b4252",
+    "#bf616a",
+    "#a3be8c",
+    "#ebcb8b",
+    "#81a1c1",
+    "#b48ead",
+    "#88c0d0",
+    "#e5e9f0",
+    "#4c566a",
+    "#bf616a",
+    "#a3be8c",
+    "#ebcb8b",
+    "#81a1c1",
+    "#b48ead",
+    "#8fbcbb",
+    "#eceff4"
+  ]
+}

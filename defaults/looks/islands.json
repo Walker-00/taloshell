@@ -1,0 +1,57 @@
+{
+  "name": "Islands",
+  "description": "Floating Material pills over a transparent bar. Airy and modern.",
+  "icon": "bubble_chart",
+  "order": 1,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 1.1,
+        "pillShapes": true,
+        "fontScale": 1.0,
+        "animationSpeed": 1.0,
+        "expressiveMotion": true,
+        "density": 1.0,
+        "borderWidth": 1,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": true,
+        "shadowStrength": 1.0,
+        "look": "islands"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 3,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 20,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 4,
+        "gapsOut": 8
+      }
+    }
+  }
+}

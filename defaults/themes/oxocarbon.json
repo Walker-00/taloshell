@@ -1,0 +1,60 @@
+{
+  "name": "Oxocarbon",
+  "family": "Oxocarbon",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "nyoom-engineering",
+  "palette": {
+    "bg": "#161616",
+    "bgAlt": "#121212",
+    "bgDeep": "#0b0b0b",
+    "surface0": "#262626",
+    "surface1": "#393939",
+    "surface2": "#525252",
+    "overlay": "#6f6f6f",
+    "fg": "#f2f4f8",
+    "fgDim": "#dde1e6",
+    "red": "#ee5396",
+    "orange": "#ff7eb6",
+    "yellow": "#08bdba",
+    "green": "#42be65",
+    "cyan": "#3ddbd9",
+    "blue": "#78a9ff",
+    "magenta": "#be95ff",
+    "pink": "#ff7eb6"
+  },
+  "accents": {
+    "blue": "#78a9ff",
+    "sky": "#33b1ff",
+    "lightblue": "#82cfff",
+    "teal": "#08bdba",
+    "cyan": "#3ddbd9",
+    "green": "#42be65",
+    "purple": "#be95ff",
+    "pink": "#ff7eb6",
+    "red": "#ee5396"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "magenta",
+    "tertiary": "pink"
+  },
+  "terminal": [
+    "#262626",
+    "#ee5396",
+    "#42be65",
+    "#ffe97b",
+    "#33b1ff",
+    "#ff7eb6",
+    "#3ddbd9",
+    "#dde1e6",
+    "#393939",
+    "#ee5396",
+    "#42be65",
+    "#ffe97b",
+    "#33b1ff",
+    "#ff7eb6",
+    "#3ddbd9",
+    "#ffffff"
+  ]
+}

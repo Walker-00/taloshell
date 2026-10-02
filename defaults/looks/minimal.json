@@ -1,0 +1,57 @@
+{
+  "name": "Minimal Flat",
+  "description": "Flat, quiet, no shadows. Calm motion and tighter spacing.",
+  "icon": "crop_square",
+  "order": 3,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 0.5,
+        "pillShapes": false,
+        "fontScale": 1.0,
+        "animationSpeed": 0.7,
+        "expressiveMotion": false,
+        "density": 0.9,
+        "borderWidth": 0,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": false,
+        "shadowStrength": 1.0,
+        "look": "minimal"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 2,
+      "borderless": "transparent",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 8,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": false
+        }
+      },
+      "general": {
+        "gapsIn": 2,
+        "gapsOut": 4
+      }
+    }
+  }
+}

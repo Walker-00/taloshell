@@ -1,0 +1,57 @@
+{
+  "name": "Poimandres",
+  "family": "Poimandres",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "drcmda",
+  "palette": {
+    "bg": "#1b1e28",
+    "bgAlt": "#171922",
+    "bgDeep": "#12141b",
+    "surface0": "#252b37",
+    "surface1": "#303340",
+    "surface2": "#404350",
+    "overlay": "#767c9d",
+    "fg": "#e4f0fb",
+    "fgDim": "#a6accd",
+    "red": "#d0679d",
+    "orange": "#fcc5e9",
+    "yellow": "#fffac2",
+    "green": "#5de4c7",
+    "cyan": "#89ddff",
+    "blue": "#add7ff",
+    "magenta": "#fae4fc",
+    "pink": "#fcc5e9"
+  },
+  "accents": {
+    "teal": "#5de4c7",
+    "blue": "#add7ff",
+    "cyan": "#89ddff",
+    "pink": "#fcc5e9",
+    "yellow": "#fffac2",
+    "red": "#d0679d"
+  },
+  "roles": {
+    "primary": "teal",
+    "secondary": "blue",
+    "tertiary": "pink"
+  },
+  "terminal": [
+    "#1b1e28",
+    "#d0679d",
+    "#5de4c7",
+    "#fffac2",
+    "#89ddff",
+    "#fcc5e9",
+    "#add7ff",
+    "#ffffff",
+    "#a6accd",
+    "#d0679d",
+    "#5de4c7",
+    "#fffac2",
+    "#add7ff",
+    "#fae4fc",
+    "#89ddff",
+    "#ffffff"
+  ]
+}

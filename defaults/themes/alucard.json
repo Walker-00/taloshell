@@ -1,0 +1,41 @@
+{
+  "name": "Alucard",
+  "family": "Dracula",
+  "variant": "Alucard (Light)",
+  "mode": "light",
+  "author": "Dracula Theme",
+  "counterpart": "dracula",
+  "palette": {
+    "bg": "#fffbeb",
+    "bgAlt": "#f5f1de",
+    "bgDeep": "#ece7d0",
+    "surface0": "#e8e3cc",
+    "surface1": "#dcd7bf",
+    "surface2": "#cfcab0",
+    "overlay": "#9a9678",
+    "fg": "#1f1f1f",
+    "fgDim": "#635d4d",
+    "red": "#cb3a2a",
+    "orange": "#a34d14",
+    "yellow": "#846e15",
+    "green": "#14710a",
+    "cyan": "#036a96",
+    "blue": "#036a96",
+    "magenta": "#644ac9",
+    "pink": "#a3144d"
+  },
+  "accents": {
+    "purple": "#644ac9",
+    "pink": "#a3144d",
+    "cyan": "#036a96",
+    "green": "#14710a",
+    "orange": "#a34d14",
+    "red": "#cb3a2a",
+    "yellow": "#846e15"
+  },
+  "roles": {
+    "primary": "purple",
+    "secondary": "pink",
+    "tertiary": "cyan"
+  }
+}

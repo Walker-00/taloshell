@@ -1,0 +1,59 @@
+{
+  "name": "Ayu Mirage",
+  "family": "Ayu",
+  "variant": "Mirage",
+  "mode": "dark",
+  "author": "ayu-theme",
+  "counterpart": "ayu-light",
+  "palette": {
+    "bg": "#1f2430",
+    "bgAlt": "#1c212b",
+    "bgDeep": "#171b24",
+    "surface0": "#242936",
+    "surface1": "#2d3342",
+    "surface2": "#3a4152",
+    "overlay": "#707a8c",
+    "fg": "#cccac2",
+    "fgDim": "#9aa0a8",
+    "red": "#f28779",
+    "orange": "#ffad66",
+    "yellow": "#ffcc66",
+    "green": "#d5ff80",
+    "cyan": "#95e6cb",
+    "blue": "#73d0ff",
+    "magenta": "#dfbfff",
+    "pink": "#f29e74"
+  },
+  "accents": {
+    "accent": "#ffcc66",
+    "blue": "#73d0ff",
+    "green": "#d5ff80",
+    "orange": "#ffad66",
+    "purple": "#dfbfff",
+    "cyan": "#95e6cb",
+    "red": "#f28779"
+  },
+  "roles": {
+    "primary": "accent",
+    "secondary": "blue",
+    "tertiary": "purple"
+  },
+  "terminal": [
+    "#171b24",
+    "#ed8274",
+    "#87d96c",
+    "#facc6e",
+    "#6dcbfa",
+    "#dabafa",
+    "#90e1c6",
+    "#c7c7c7",
+    "#686868",
+    "#f28779",
+    "#d5ff80",
+    "#ffd173",
+    "#73d0ff",
+    "#dfbfff",
+    "#95e6cb",
+    "#ffffff"
+  ]
+}

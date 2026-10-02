@@ -1,0 +1,55 @@
+{
+  "name": "Vesper",
+  "family": "Vesper",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "Rauno Freiberg",
+  "palette": {
+    "bg": "#101010",
+    "bgAlt": "#0b0b0b",
+    "bgDeep": "#060606",
+    "surface0": "#1c1c1c",
+    "surface1": "#232323",
+    "surface2": "#343434",
+    "overlay": "#505050",
+    "fg": "#ffffff",
+    "fgDim": "#a0a0a0",
+    "red": "#ff8080",
+    "orange": "#ffc799",
+    "yellow": "#ffc799",
+    "green": "#99ffe4",
+    "cyan": "#99ffe4",
+    "blue": "#a0a0a0",
+    "magenta": "#ffc799",
+    "pink": "#ff8080"
+  },
+  "accents": {
+    "peach": "#ffc799",
+    "mint": "#99ffe4",
+    "red": "#ff8080",
+    "silver": "#a0a0a0"
+  },
+  "roles": {
+    "primary": "peach",
+    "secondary": "mint",
+    "tertiary": "red"
+  },
+  "terminal": [
+    "#101010",
+    "#ff8080",
+    "#99ffe4",
+    "#ffc799",
+    "#a0a0a0",
+    "#ffc799",
+    "#99ffe4",
+    "#ffffff",
+    "#505050",
+    "#ff8080",
+    "#99ffe4",
+    "#ffc799",
+    "#a0a0a0",
+    "#ffc799",
+    "#99ffe4",
+    "#ffffff"
+  ]
+}

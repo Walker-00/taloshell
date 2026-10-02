@@ -1,0 +1,57 @@
+{
+  "name": "Graphite",
+  "family": "Monochrome",
+  "variant": "Graphite",
+  "mode": "dark",
+  "author": "taloshell",
+  "counterpart": "mono-light",
+  "palette": {
+    "bg": "#121212",
+    "bgAlt": "#0d0d0d",
+    "bgDeep": "#080808",
+    "surface0": "#1e1e1e",
+    "surface1": "#2a2a2a",
+    "surface2": "#3a3a3a",
+    "overlay": "#6a6a6a",
+    "fg": "#ececec",
+    "fgDim": "#a8a8a8",
+    "red": "#e06c6c",
+    "orange": "#d9a066",
+    "yellow": "#d8c878",
+    "green": "#9cc79c",
+    "cyan": "#96c8c8",
+    "blue": "#a0b4d0",
+    "magenta": "#c0a8d0",
+    "pink": "#d0a8b8"
+  },
+  "accents": {
+    "white": "#e8e8e8",
+    "silver": "#b8b8b8",
+    "ash": "#8c8c8c",
+    "red": "#e06c6c",
+    "blue": "#a0b4d0"
+  },
+  "roles": {
+    "primary": "white",
+    "secondary": "silver",
+    "tertiary": "ash"
+  },
+  "terminal": [
+    "#2a2a2a",
+    "#e06c6c",
+    "#9cc79c",
+    "#d8c878",
+    "#a0b4d0",
+    "#c0a8d0",
+    "#96c8c8",
+    "#d0d0d0",
+    "#555555",
+    "#f08080",
+    "#b0dab0",
+    "#e8d890",
+    "#b4c8e4",
+    "#d4bce4",
+    "#aadcdc",
+    "#ffffff"
+  ]
+}

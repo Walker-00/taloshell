@@ -1,0 +1,58 @@
+{
+  "name": "Synthwave '84",
+  "family": "Synthwave",
+  "variant": "'84",
+  "mode": "dark",
+  "author": "Robb Owen",
+  "palette": {
+    "bg": "#262335",
+    "bgAlt": "#241b2f",
+    "bgDeep": "#1b1524",
+    "surface0": "#2a2139",
+    "surface1": "#34294f",
+    "surface2": "#495495",
+    "overlay": "#848bbd",
+    "fg": "#ffffff",
+    "fgDim": "#d5c3e8",
+    "red": "#fe4450",
+    "orange": "#f97e72",
+    "yellow": "#fede5d",
+    "green": "#72f1b8",
+    "cyan": "#36f9f6",
+    "blue": "#2ee2fa",
+    "magenta": "#b893ce",
+    "pink": "#ff7edb"
+  },
+  "accents": {
+    "pink": "#ff7edb",
+    "cyan": "#36f9f6",
+    "yellow": "#fede5d",
+    "orange": "#f97e72",
+    "green": "#72f1b8",
+    "purple": "#b893ce",
+    "red": "#fe4450"
+  },
+  "roles": {
+    "primary": "pink",
+    "secondary": "cyan",
+    "tertiary": "yellow"
+  },
+  "terminal": [
+    "#34294f",
+    "#fe4450",
+    "#72f1b8",
+    "#fede5d",
+    "#03edf9",
+    "#ff7edb",
+    "#03edf9",
+    "#ffffff",
+    "#495495",
+    "#fe4450",
+    "#72f1b8",
+    "#fede5d",
+    "#03edf9",
+    "#ff7edb",
+    "#03edf9",
+    "#ffffff"
+  ]
+}

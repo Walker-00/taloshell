@@ -1,0 +1,63 @@
+{
+  "name": "Kanagawa Wave",
+  "family": "Kanagawa",
+  "variant": "Wave",
+  "mode": "dark",
+  "author": "rebelot",
+  "url": "https://github.com/rebelot/kanagawa.nvim",
+  "counterpart": "kanagawa-lotus",
+  "palette": {
+    "bg": "#1f1f28",
+    "bgAlt": "#1a1a22",
+    "bgDeep": "#16161d",
+    "surface0": "#2a2a37",
+    "surface1": "#363646",
+    "surface2": "#54546d",
+    "overlay": "#727169",
+    "fg": "#dcd7ba",
+    "fgDim": "#c8c093",
+    "red": "#e46876",
+    "orange": "#ffa066",
+    "yellow": "#e6c384",
+    "green": "#98bb6c",
+    "cyan": "#7aa89f",
+    "blue": "#7e9cd8",
+    "magenta": "#957fb8",
+    "pink": "#d27e99"
+  },
+  "accents": {
+    "crystalBlue": "#7e9cd8",
+    "springBlue": "#7fb4ca",
+    "oniViolet": "#957fb8",
+    "springViolet": "#938aa9",
+    "sakuraPink": "#d27e99",
+    "waveRed": "#e46876",
+    "surimiOrange": "#ffa066",
+    "carpYellow": "#e6c384",
+    "springGreen": "#98bb6c",
+    "waveAqua": "#7aa89f"
+  },
+  "roles": {
+    "primary": "crystalBlue",
+    "secondary": "oniViolet",
+    "tertiary": "sakuraPink"
+  },
+  "terminal": [
+    "#16161d",
+    "#c34043",
+    "#76946a",
+    "#c0a36e",
+    "#7e9cd8",
+    "#957fb8",
+    "#6a9589",
+    "#c8c093",
+    "#727169",
+    "#e82424",
+    "#98bb6c",
+    "#e6c384",
+    "#7fb4ca",
+    "#938aa9",
+    "#7aa89f",
+    "#dcd7ba"
+  ]
+}

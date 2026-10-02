@@ -1,0 +1,60 @@
+{
+  "name": "Gruvbox Dark",
+  "family": "Gruvbox",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "morhetz",
+  "url": "https://github.com/morhetz/gruvbox",
+  "counterpart": "gruvbox-light",
+  "palette": {
+    "bg": "#282828",
+    "bgAlt": "#1d2021",
+    "bgDeep": "#141617",
+    "surface0": "#3c3836",
+    "surface1": "#504945",
+    "surface2": "#665c54",
+    "overlay": "#7c6f64",
+    "fg": "#ebdbb2",
+    "fgDim": "#bdae93",
+    "red": "#fb4934",
+    "orange": "#fe8019",
+    "yellow": "#fabd2f",
+    "green": "#b8bb26",
+    "cyan": "#8ec07c",
+    "blue": "#83a598",
+    "magenta": "#d3869b",
+    "pink": "#d3869b"
+  },
+  "accents": {
+    "red": "#fb4934",
+    "green": "#b8bb26",
+    "yellow": "#fabd2f",
+    "blue": "#83a598",
+    "purple": "#d3869b",
+    "aqua": "#8ec07c",
+    "orange": "#fe8019"
+  },
+  "roles": {
+    "primary": "yellow",
+    "secondary": "aqua",
+    "tertiary": "orange"
+  },
+  "terminal": [
+    "#282828",
+    "#cc241d",
+    "#98971a",
+    "#d79921",
+    "#458588",
+    "#b16286",
+    "#689d6a",
+    "#a89984",
+    "#928374",
+    "#fb4934",
+    "#b8bb26",
+    "#fabd2f",
+    "#83a598",
+    "#d3869b",
+    "#8ec07c",
+    "#ebdbb2"
+  ]
+}

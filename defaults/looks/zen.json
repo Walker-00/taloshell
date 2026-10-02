@@ -1,0 +1,61 @@
+{
+  "name": "Zen",
+  "description": "Auto-hiding bar, no clutter. Everything appears when you need it.",
+  "icon": "self_improvement",
+  "order": 12,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 1.0,
+        "pillShapes": true,
+        "fontScale": 1.0,
+        "animationSpeed": 0.9,
+        "expressiveMotion": true,
+        "density": 1.0,
+        "borderWidth": 1,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": true,
+        "shadowStrength": 1.0,
+        "look": "zen"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 1,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true,
+      "autoHide": {
+        "enable": true
+      }
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 20,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 6,
+        "gapsOut": 14
+      }
+    }
+  },
+  "suggestedTheme": "everforest-dark"
+}

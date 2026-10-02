@@ -1,0 +1,58 @@
+{
+  "name": "Material Palenight",
+  "family": "Material",
+  "variant": "Palenight",
+  "mode": "dark",
+  "author": "Mattia Astorino",
+  "palette": {
+    "bg": "#292d3e",
+    "bgAlt": "#232635",
+    "bgDeep": "#1c1f2b",
+    "surface0": "#32374d",
+    "surface1": "#3a3f58",
+    "surface2": "#444267",
+    "overlay": "#676e95",
+    "fg": "#a6accd",
+    "fgDim": "#959dcb",
+    "red": "#f07178",
+    "orange": "#f78c6c",
+    "yellow": "#ffcb6b",
+    "green": "#c3e88d",
+    "cyan": "#89ddff",
+    "blue": "#82aaff",
+    "magenta": "#c792ea",
+    "pink": "#ff5370"
+  },
+  "accents": {
+    "purple": "#c792ea",
+    "blue": "#82aaff",
+    "cyan": "#89ddff",
+    "green": "#c3e88d",
+    "yellow": "#ffcb6b",
+    "orange": "#f78c6c",
+    "red": "#f07178"
+  },
+  "roles": {
+    "primary": "purple",
+    "secondary": "blue",
+    "tertiary": "cyan"
+  },
+  "terminal": [
+    "#292d3e",
+    "#f07178",
+    "#c3e88d",
+    "#ffcb6b",
+    "#82aaff",
+    "#c792ea",
+    "#89ddff",
+    "#d0d0d0",
+    "#434758",
+    "#ff8b92",
+    "#ddffa7",
+    "#ffe585",
+    "#9cc4ff",
+    "#e1acff",
+    "#a3f7ff",
+    "#ffffff"
+  ]
+}

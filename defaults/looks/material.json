@@ -1,0 +1,57 @@
+{
+  "name": "Material Expressive",
+  "description": "The default: soft M3 Expressive shapes, springy motion, hugging bar.",
+  "icon": "auto_awesome",
+  "order": 0,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 1.0,
+        "pillShapes": true,
+        "fontScale": 1.0,
+        "animationSpeed": 1.0,
+        "expressiveMotion": true,
+        "density": 1.0,
+        "borderWidth": 1,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": true,
+        "shadowStrength": 1.0,
+        "look": "material"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 0,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 22,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 2,
+        "gapsOut": 5
+      }
+    }
+  }
+}

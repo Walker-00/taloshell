@@ -1,0 +1,57 @@
+{
+  "name": "Monokai Pro",
+  "family": "Monokai",
+  "variant": "Pro",
+  "mode": "dark",
+  "author": "Monokai",
+  "palette": {
+    "bg": "#2d2a2e",
+    "bgAlt": "#221f22",
+    "bgDeep": "#19181a",
+    "surface0": "#403e41",
+    "surface1": "#5b595c",
+    "surface2": "#727072",
+    "overlay": "#939293",
+    "fg": "#fcfcfa",
+    "fgDim": "#c1c0c0",
+    "red": "#ff6188",
+    "orange": "#fc9867",
+    "yellow": "#ffd866",
+    "green": "#a9dc76",
+    "cyan": "#78dce8",
+    "blue": "#78dce8",
+    "magenta": "#ab9df2",
+    "pink": "#ff6188"
+  },
+  "accents": {
+    "yellow": "#ffd866",
+    "pink": "#ff6188",
+    "orange": "#fc9867",
+    "green": "#a9dc76",
+    "cyan": "#78dce8",
+    "purple": "#ab9df2"
+  },
+  "roles": {
+    "primary": "yellow",
+    "secondary": "pink",
+    "tertiary": "cyan"
+  },
+  "terminal": [
+    "#403e41",
+    "#ff6188",
+    "#a9dc76",
+    "#ffd866",
+    "#fc9867",
+    "#ab9df2",
+    "#78dce8",
+    "#fcfcfa",
+    "#727072",
+    "#ff6188",
+    "#a9dc76",
+    "#ffd866",
+    "#fc9867",
+    "#ab9df2",
+    "#78dce8",
+    "#fcfcfa"
+  ]
+}

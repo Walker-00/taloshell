@@ -1,0 +1,57 @@
+{
+  "name": "Vertical Rail",
+  "description": "Bar on the side of the screen, floating. Great on wide monitors.",
+  "icon": "view_sidebar",
+  "order": 9,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 1.0,
+        "pillShapes": true,
+        "fontScale": 1.0,
+        "animationSpeed": 1.0,
+        "expressiveMotion": true,
+        "density": 1.0,
+        "borderWidth": 1,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": true,
+        "shadowStrength": 1.0,
+        "look": "vertical"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 1,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": true,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 20,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 3,
+        "gapsOut": 8
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "One Dark",
+  "family": "One",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "Atom",
+  "counterpart": "onelight",
+  "palette": {
+    "bg": "#282c34",
+    "bgAlt": "#21252b",
+    "bgDeep": "#1b1f23",
+    "surface0": "#2c313a",
+    "surface1": "#3b4048",
+    "surface2": "#4b5263",
+    "overlay": "#5c6370",
+    "fg": "#abb2bf",
+    "fgDim": "#8b929e",
+    "red": "#e06c75",
+    "orange": "#d19a66",
+    "yellow": "#e5c07b",
+    "green": "#98c379",
+    "cyan": "#56b6c2",
+    "blue": "#61afef",
+    "magenta": "#c678dd",
+    "pink": "#c678dd"
+  },
+  "accents": {
+    "blue": "#61afef",
+    "purple": "#c678dd",
+    "cyan": "#56b6c2",
+    "green": "#98c379",
+    "yellow": "#e5c07b",
+    "orange": "#d19a66",
+    "red": "#e06c75"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "purple",
+    "tertiary": "green"
+  },
+  "terminal": [
+    "#3f4451",
+    "#e06c75",
+    "#98c379",
+    "#e5c07b",
+    "#61afef",
+    "#c678dd",
+    "#56b6c2",
+    "#abb2bf",
+    "#5c6370",
+    "#be5046",
+    "#a5e075",
+    "#e8c88c",
+    "#4dc4ff",
+    "#de73ff",
+    "#4cd1e0",
+    "#e6e6e6"
+  ]
+}

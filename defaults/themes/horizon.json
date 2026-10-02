@@ -1,0 +1,58 @@
+{
+  "name": "Horizon",
+  "family": "Horizon",
+  "variant": "Dark",
+  "mode": "dark",
+  "author": "jolaleye",
+  "palette": {
+    "bg": "#1c1e26",
+    "bgAlt": "#16161c",
+    "bgDeep": "#111116",
+    "surface0": "#232530",
+    "surface1": "#2e303e",
+    "surface2": "#3b3e52",
+    "overlay": "#6c6f93",
+    "fg": "#e0e0e0",
+    "fgDim": "#bbbbbb",
+    "red": "#e95678",
+    "orange": "#fab795",
+    "yellow": "#fac29a",
+    "green": "#29d398",
+    "cyan": "#59e3e3",
+    "blue": "#26bbd9",
+    "magenta": "#b877db",
+    "pink": "#ee64ae"
+  },
+  "accents": {
+    "red": "#e95678",
+    "orange": "#fab795",
+    "pink": "#ee64ae",
+    "purple": "#b877db",
+    "green": "#29d398",
+    "cyan": "#59e3e3",
+    "blue": "#26bbd9"
+  },
+  "roles": {
+    "primary": "red",
+    "secondary": "orange",
+    "tertiary": "cyan"
+  },
+  "terminal": [
+    "#16161c",
+    "#e95678",
+    "#29d398",
+    "#fab795",
+    "#26bbd9",
+    "#ee64ae",
+    "#59e3e3",
+    "#fadad1",
+    "#232530",
+    "#ec6a88",
+    "#3fdaa4",
+    "#fbc3a7",
+    "#3fc4de",
+    "#f075b5",
+    "#6be4e6",
+    "#fdf0ed"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Cozy",
+  "description": "Extra round, roomy and bouncy. Slightly larger text.",
+  "icon": "favorite",
+  "order": 6,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 1.5,
+        "pillShapes": true,
+        "fontScale": 1.05,
+        "animationSpeed": 1.15,
+        "expressiveMotion": true,
+        "density": 1.1,
+        "borderWidth": 1,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": true,
+        "shadowStrength": 0.8,
+        "look": "cozy"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 1,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 26,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 5,
+        "gapsOut": 12
+      }
+    }
+  },
+  "suggestedTheme": "rosepine-moon"
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Compact",
+  "description": "Smaller everything for laptops and small screens.",
+  "icon": "compress",
+  "order": 10,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 0.85,
+        "pillShapes": true,
+        "fontScale": 0.92,
+        "animationSpeed": 0.8,
+        "expressiveMotion": true,
+        "density": 0.85,
+        "borderWidth": 1,
+        "borderColor": "default",
+        "borderOpacity": 1.0,
+        "shadows": true,
+        "shadowStrength": 1.0,
+        "look": "compact"
+      },
+      "transparency": {
+        "enable": false
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 0,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true,
+      "verbose": false
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 14,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 2,
+        "gapsOut": 4
+      }
+    }
+  }
+}

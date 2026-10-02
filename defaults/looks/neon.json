@@ -1,0 +1,61 @@
+{
+  "name": "Neon",
+  "description": "Glowing accent outlines, deep shadows and translucency.",
+  "icon": "flare",
+  "order": 11,
+  "config": {
+    "panelFamily": "ii",
+    "appearance": {
+      "style": {
+        "roundingScale": 1.1,
+        "pillShapes": true,
+        "fontScale": 1.0,
+        "animationSpeed": 1.0,
+        "expressiveMotion": true,
+        "density": 1.0,
+        "borderWidth": 1.5,
+        "borderColor": "primary",
+        "borderOpacity": 0.9,
+        "shadows": true,
+        "shadowStrength": 1.6,
+        "look": "neon"
+      },
+      "transparency": {
+        "enable": true,
+        "automatic": false,
+        "backgroundTransparency": 0.2,
+        "contentTransparency": 0.5
+      },
+      "fonts": {
+        "main": "Google Sans Flex",
+        "numbers": "Google Sans Flex",
+        "title": "Google Sans Flex",
+        "monospace": "JetBrains Mono NF"
+      }
+    },
+    "bar": {
+      "cornerStyle": 1,
+      "borderless": "pills",
+      "showBackground": true,
+      "showFrame": false,
+      "vertical": false,
+      "floatStyleShadow": true
+    },
+    "hyprland": {
+      "decoration": {
+        "rounding": 16,
+        "blur": {
+          "enabled": true
+        },
+        "shadow": {
+          "enabled": true
+        }
+      },
+      "general": {
+        "gapsIn": 4,
+        "gapsOut": 10
+      }
+    }
+  },
+  "suggestedTheme": "synthwave84"
+}

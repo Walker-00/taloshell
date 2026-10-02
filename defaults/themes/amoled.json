@@ -1,0 +1,59 @@
+{
+  "name": "AMOLED",
+  "family": "Monochrome",
+  "variant": "AMOLED",
+  "mode": "dark",
+  "author": "taloshell",
+  "palette": {
+    "bg": "#000000",
+    "bgAlt": "#000000",
+    "bgDeep": "#000000",
+    "surface0": "#0f0f0f",
+    "surface1": "#1a1a1a",
+    "surface2": "#2a2a2a",
+    "overlay": "#5a5a5a",
+    "fg": "#f0f0f0",
+    "fgDim": "#a0a0a0",
+    "red": "#ff6b6b",
+    "orange": "#ffa94d",
+    "yellow": "#ffd43b",
+    "green": "#69db7c",
+    "cyan": "#66d9e8",
+    "blue": "#74c0fc",
+    "magenta": "#da77f2",
+    "pink": "#f783ac"
+  },
+  "accents": {
+    "blue": "#74c0fc",
+    "violet": "#da77f2",
+    "pink": "#f783ac",
+    "green": "#69db7c",
+    "cyan": "#66d9e8",
+    "yellow": "#ffd43b",
+    "orange": "#ffa94d",
+    "white": "#f0f0f0"
+  },
+  "roles": {
+    "primary": "blue",
+    "secondary": "violet",
+    "tertiary": "pink"
+  },
+  "terminal": [
+    "#000000",
+    "#ff6b6b",
+    "#69db7c",
+    "#ffd43b",
+    "#74c0fc",
+    "#da77f2",
+    "#66d9e8",
+    "#d0d0d0",
+    "#3a3a3a",
+    "#ff8787",
+    "#8ce99a",
+    "#ffe066",
+    "#a5d8ff",
+    "#e599f7",
+    "#99e9f2",
+    "#ffffff"
+  ]
+}

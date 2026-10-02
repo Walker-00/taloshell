@@ -1,0 +1,60 @@
+{
+  "name": "Dracula",
+  "family": "Dracula",
+  "variant": "Classic",
+  "mode": "dark",
+  "author": "Zeno Rocha",
+  "url": "https://draculatheme.com",
+  "counterpart": "alucard",
+  "palette": {
+    "bg": "#282a36",
+    "bgAlt": "#21222c",
+    "bgDeep": "#191a21",
+    "surface0": "#343746",
+    "surface1": "#44475a",
+    "surface2": "#565a73",
+    "overlay": "#6272a4",
+    "fg": "#f8f8f2",
+    "fgDim": "#c0c0d0",
+    "red": "#ff5555",
+    "orange": "#ffb86c",
+    "yellow": "#f1fa8c",
+    "green": "#50fa7b",
+    "cyan": "#8be9fd",
+    "blue": "#8be9fd",
+    "magenta": "#bd93f9",
+    "pink": "#ff79c6"
+  },
+  "accents": {
+    "purple": "#bd93f9",
+    "pink": "#ff79c6",
+    "cyan": "#8be9fd",
+    "green": "#50fa7b",
+    "orange": "#ffb86c",
+    "red": "#ff5555",
+    "yellow": "#f1fa8c"
+  },
+  "roles": {
+    "primary": "purple",
+    "secondary": "pink",
+    "tertiary": "cyan"
+  },
+  "terminal": [
+    "#21222c",
+    "#ff5555",
+    "#50fa7b",
+    "#f1fa8c",
+    "#bd93f9",
+    "#ff79c6",
+    "#8be9fd",
+    "#f8f8f2",
+    "#6272a4",
+    "#ff6e6e",
+    "#69ff94",
+    "#ffffa5",
+    "#d6acff",
+    "#ff92df",
+    "#a4ffff",
+    "#ffffff"
+  ]
+}
